@@ -1,0 +1,18 @@
+div{
+    background-color: #F7CFD8;
+}
+.top-container{
+    background-color:#99BC85;
+    width: 200px;
+    height: 300px;
+}
+.middle-container{
+    background-color: #E4EFE7;
+    width: 200px;
+    height: 200px;
+}
+.bottom-container{
+    background-color: #FAF1E6;
+    width: 200px;
+    height: 200px;
+}
